@@ -9,3 +9,4 @@ score_avg= sum*100/m/ n
 
 
 print(score_avg)
+
